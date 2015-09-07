@@ -14,6 +14,7 @@ Requires:	kf5-solid
 Requires:	kp5-breeze
 Requires:	kp5-kmenuedit
 Requires:	kp5-milou
+Requires:	kp5-oxygen
 Requires:	kp5-plasma-desktop
 Requires:	kp5-plasma-workspace
 Requires:	kp5-polkit-kde-agent
