@@ -17,6 +17,7 @@ Requires:	kp5-milou
 Requires:	kp5-plasma-desktop
 Requires:	kp5-plasma-workspace
 Requires:	kp5-polkit-kde-agent
+Requires:	kp5-systemsettings
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
