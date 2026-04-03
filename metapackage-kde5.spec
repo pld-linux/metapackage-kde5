@@ -2,7 +2,7 @@ Summary:	K Desktop Environment 5 with additional packages
 Summary(pl.UTF-8):	Środowisko graficzne KDE5 z dodatkowymi pakietami
 Name:		metapackage-kde5
 Version:	5
-Release:	1
+Release:	2
 License:	GPL/LGPL
 Group:		X11/Applications
 Requires:	ka5-konsole
